@@ -1136,7 +1136,7 @@ span {
 
 .inner-banner-section {
     position: relative;
-    background-image: url("../images/about.png");
+    background-image: url("../images/px-1.jpg");
     z-index: 2;
     background-size: cover;
     background-position: center;
@@ -3768,4 +3768,23 @@ blockquote::before {
     font-size: 25px;
     font-weight: 800;
     text-shadow: 2px 2px 0 #000;
+}
+
+.playbutton {
+    position: absolute;
+    color: #ffffff !important;
+    top: 40%;
+    font-size: 60px;
+    z-index: 12;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: -20px auto;
+}
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }

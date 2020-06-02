@@ -387,5 +387,3 @@ $(".progressbar").each(function(){
 });
 
 })(jQuery);
-   
-        
