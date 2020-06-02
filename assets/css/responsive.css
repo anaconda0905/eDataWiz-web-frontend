@@ -8,9 +8,7 @@
     .banner-element{
         display: none;
     }
-    .about-section::after{
-        width: 32%;
-    }
+    
     .about-element-one {
         top: 28%;
         width: 25%;
